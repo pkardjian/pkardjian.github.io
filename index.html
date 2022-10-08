@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 ---
 
 <div class="About">
   {% for p in pages %}
-    {% if p.title == 'About' %}
+    {% if p.title == 'About Me' %}
         {{p.content}}
     {% endif %}
   {% endfor %}
