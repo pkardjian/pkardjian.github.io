@@ -6,7 +6,7 @@ permalink: /experience/
 
 
 <div class="posts">
-  {% for post in _posts %}
+  {% for post in posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
         <h1>{{ post.title }}</h1>
