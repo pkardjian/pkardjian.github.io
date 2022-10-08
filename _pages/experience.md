@@ -1,8 +1,9 @@
 ---
 layout: page
 title: My Experience
-permalink: /experience/
+permalink: //
 ---
+
 
 <div class="posts">
   {% for post in paginator.posts %}
