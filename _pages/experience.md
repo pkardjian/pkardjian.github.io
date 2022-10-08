@@ -6,7 +6,15 @@ permalink: /experience/
 
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+# KPMG
+
+<div class="post-tags">
+    <a href="{{site.baseurl}}/categories/#Python">Python</a> &nbsp;
+    <a href="{{site.baseurl}}/categories/#Pandas">Pandas</a>
+    <a href="{{site.baseurl}}/categories/#NumPy">NumPy</a>
+    <a href="{{site.baseurl}}/categories/#React.js">React.js</a>
+    <a href="{{site.baseurl}}/categories/#Product Management">Product Management</a>
+</div>
 
 ## Features
 
