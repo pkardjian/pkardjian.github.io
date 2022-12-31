@@ -16,7 +16,7 @@ permalink: /experience/
 
 Intern on the [Pay Equity Team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html).
 
-Ideated and developed new features for an early stage 'Pay Equity' application, enabling KPMG clients to be compliant with the [Ontarian](https://www.payequity.gov.on.ca/en/WhatWeDo/Pages/the_act.aspx) or [Canadian](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html) Pay Equity Acts.
+Ideated and developed new features for an early stage 'Pay Equity' application, enabling KPMG clients to be compliant with [Ontarian](https://www.payequity.gov.on.ca/en/WhatWeDo/Pages/the_act.aspx) & [Canadian](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html) Pay Equity Acts.
 
 My notable achievements include:
 
@@ -24,5 +24,3 @@ My notable achievements include:
 - Building a payout calculator to plan yearly compensation increases.
 - Optimizing existing ETL process for a job classifier.
 - Implementing unit testing and CI/CD pipelines where needed.
-
-* Pay Equity = Equal Pay for Work of Equal Value
