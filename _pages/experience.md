@@ -4,6 +4,8 @@ title: Data Engineering @ KPMG
 permalink: /experience/
 ---
 
+### May - August 2022
+
 <div class="post-tags">
     <a href="{{site.baseurl}}/categories/#Python">Python</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#Pandas">Pandas</a> &nbsp;
@@ -12,13 +14,15 @@ permalink: /experience/
     <a href="{{site.baseurl}}/categories/#Product Management">Product Management</a>
 </div>
 
-Intern on the [Pay Equity Team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html). 
+Intern on the [Pay Equity Team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html).
 
-Ideated and developed new features for an early stage 'Pay Equity' application, enabling clients to be compliant with [Canadian legislation](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html) regarding pay equity.
+Ideated and developed new features for an early stage 'Pay Equity' application, enabling KPMG clients to be compliant with the [Ontarian](https://www.payequity.gov.on.ca/en/WhatWeDo/Pages/the_act.aspx) or [Canadian](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html) Pay Equity Acts.
 
-Notable achievements include:
+My notable achievements include:
 
 - Launching MVP for the Quebec Pay Equity application (React + Flask).
 - Building a payout calculator to plan yearly compensation increases.
 - Optimizing existing ETL process for a job classifier.
 - Implementing unit testing and CI/CD pipelines where needed.
+
+* Pay Equity = Equal Pay for Work of Equal Value
