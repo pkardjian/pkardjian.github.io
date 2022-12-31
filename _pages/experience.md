@@ -1,9 +1,8 @@
 ---
 layout: page
+title: Data Engineering @ KPMG 
 permalink: /experience/
 ---
-
-# Data Engineering @ KPMG
 
 <div class="post-tags">
     <a href="{{site.baseurl}}/categories/#Python">Python</a> &nbsp;
@@ -13,7 +12,9 @@ permalink: /experience/
     <a href="{{site.baseurl}}/categories/#Product Management">Product Management</a>
 </div>
 
-Intern on the [Pay Equity Team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html). Ideated and developed new features for an early stage 'Pay Equity' application, enabling KPMG clients to be compliant with new Pay Equity [legislation](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html). Notable achievements include:
+Intern on the [Pay Equity Team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html). 
+
+I was tasked with ideating and developing new features for an early stage 'Pay Equity' application, enabling KPMG clients to be compliant with new Pay Equity [legislation](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html). Notable achievements include:
 
 - Launching MVP for the Quebec Pay Equity application (React + Flask).
 - Building a payout calculator to plan yearly compensation increases.
