@@ -11,21 +11,20 @@ permalink: /experience/
     <a href="{{site.baseurl}}/categories/#Pandas">Pandas</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#NumPy">NumPy</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#React.js">React.js</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#Product Management">Product Management</a>
 </div>
 
 Intern on the [Pay Equity team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html).
 
 Ideated and developed new features for an early stage 'Pay Equity' application, enabling KPMG clients to be compliant with [Ontarian](https://www.payequity.gov.on.ca/en/WhatWeDo/Pages/the_act.aspx) & [Canadian](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html) Pay Equity Acts.
 
-My notable achievements include:
+Some notable achievements include:
 
 - Launching MVP for the Quebec Pay Equity application.
 - Building a payout calculator to plan yearly compensation increases.
 - Optimizing existing ETL process for a job classifier.
 - Implementing unit testing and CI/CD pipelines where needed.
 
-
+---
 
 # Product Engineering @ LifeWorks
 
@@ -41,9 +40,8 @@ Intern on the Enterprise Solutions team.
 
 Worked on a wide range of projects, from database management to automation of the company's [rebranding campaign](https://lifeworks.com/en/morneau-shepell-now-lifeworks).
 
-My notable achievements include:
+Some stuff I did:
 
-- Launching MVP for the Quebec Pay Equity application.
-- Building a payout calculator to plan yearly compensation increases.
-- Optimizing existing ETL process for a job classifier.
-- Implementing unit testing and CI/CD pipelines where needed.
+- Developed C# app for rebranding, saving $60k+ and 27 weeks of manual work.
+- Resolved database migration issues, reducing storage costs by 15%.
+- Wrote SQL scripts to clean PII data in 25+ tables.
