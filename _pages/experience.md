@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Technical Product Manager @ Konrad Group
+title: Product Manager @ Konrad Group
 permalink: /experience/
 ---
 
@@ -13,7 +13,7 @@ Gathering data-driven insights and conducting in-depth user testing for clients 
 # Data Engineer @ KPMG
 
 <div class="post-tags">
-    <a href="{{site.baseurl}}/categories/#Python">Python</a> &nbsp;
+    <a>Python</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#Pandas">Pandas</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#NumPy">NumPy</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#React.js">React.js</a> &nbsp;
