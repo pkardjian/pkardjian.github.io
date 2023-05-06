@@ -6,9 +6,15 @@ permalink: /experience/
 
 ## Product Manager @ Konrad Group
 
+<div class="post-tags">
+    <a>Figma</a> &nbsp;
+    <a>Python</a> &nbsp;
+    <a>JIRA</a> &nbsp;
+</div>
+
 Intern on the [Strategy team](https://www.konrad.com/capabilities/strategy) for Summer 2023.
 
-Gathering data-driven insights and conducting in-depth user testing for clients to develop innovative digital solutions for clients. 
+Gathering data-driven insights and conducting in-depth user testing to develop innovative digital solutions for clients. 
 
 ---
 
