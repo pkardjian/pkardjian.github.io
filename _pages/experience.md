@@ -1,10 +1,12 @@
 ---
 layout: page
-title: Experiences
+title: A glimpse into my recent experiences ...
 permalink: /experience/
 ---
 
 ## Product Manager @ Konrad Group
+
+<p class="author_title">Summer 2023  ·  Toronto, ON</p>
 
 <div class="post-tags">
     <a>Figma</a> &nbsp;
