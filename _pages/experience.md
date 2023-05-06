@@ -54,7 +54,7 @@ Some notable achievements include:
     <a>SQL</a> &nbsp;
 </div>
 
-Intern on the Enterprise Solutions team during Summer 2021.
+Intern on the Enterprise Solutions team.
 
 Worked on a wide range of projects, from database management to automation of the company's [rebranding campaign](https://lifeworks.com/en/morneau-shepell-now-lifeworks).
 
