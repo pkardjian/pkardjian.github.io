@@ -1,8 +1,16 @@
 ---
 layout: page
-title: Data Engineer @ KPMG 
+title: Technical Product Manager @ Konrad Group
 permalink: /experience/
 ---
+
+Intern on the [Strategy team](https://www.konrad.com/capabilities/strategy) for Summer 2023.
+
+Gathering data-driven insights and conducting in-depth user testing for clients to develop innovative digital solutions for clients. 
+
+---
+
+# Data Engineer @ KPMG
 
 <div class="post-tags">
     <a href="{{site.baseurl}}/categories/#Python">Python</a> &nbsp;
