@@ -14,13 +14,36 @@ permalink: /experience/
     <a href="{{site.baseurl}}/categories/#Product Management">Product Management</a>
 </div>
 
-Intern on the [Pay Equity Team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html).
+Intern on the [Pay Equity team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html).
 
 Ideated and developed new features for an early stage 'Pay Equity' application, enabling KPMG clients to be compliant with [Ontarian](https://www.payequity.gov.on.ca/en/WhatWeDo/Pages/the_act.aspx) & [Canadian](https://www.canada.ca/en/services/jobs/workplace/human-rights/overview-pay-equity-act.html) Pay Equity Acts.
 
 My notable achievements include:
 
-- Launching MVP for the Quebec Pay Equity application (React + Flask).
+- Launching MVP for the Quebec Pay Equity application.
+- Building a payout calculator to plan yearly compensation increases.
+- Optimizing existing ETL process for a job classifier.
+- Implementing unit testing and CI/CD pipelines where needed.
+
+
+
+# Product Engineering @ LifeWorks
+
+### May - August 2022
+
+<div class="post-tags">
+    <a href="{{site.baseurl}}/categories/#CSharp">C#</a> &nbsp;
+    <a href="{{site.baseurl}}/categories/#DotNet">.NET</a> &nbsp;
+    <a href="{{site.baseurl}}/categories/#SQL">SQL</a> &nbsp;
+</div>
+
+Intern on the Enterprise Solutions team.
+
+Worked on a wide range of projects, from database management to automation of the company's [rebranding campaign](https://lifeworks.com/en/morneau-shepell-now-lifeworks).
+
+My notable achievements include:
+
+- Launching MVP for the Quebec Pay Equity application.
 - Building a payout calculator to plan yearly compensation increases.
 - Optimizing existing ETL process for a job classifier.
 - Implementing unit testing and CI/CD pipelines where needed.
