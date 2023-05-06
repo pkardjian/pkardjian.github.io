@@ -1,22 +1,30 @@
 ---
 layout: page
-title: Product Manager @ Konrad Group
+title: Experiences
 permalink: /experience/
 ---
 
+## Product Manager @ Konrad
+
 Intern on the [Strategy team](https://www.konrad.com/capabilities/strategy) for Summer 2023.
+
+<div class="post-tags">
+    Figma &nbsp;
+    Python &nbsp;
+    JIRA &nbsp;
+</div>
 
 Gathering data-driven insights and conducting in-depth user testing for clients to develop innovative digital solutions for clients. 
 
 ---
 
-# Data Engineer @ KPMG
+## Data Engineer @ KPMG
 
 <div class="post-tags">
-    <a>Python</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#Pandas">Pandas</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#NumPy">NumPy</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#React.js">React.js</a> &nbsp;
+    Python &nbsp;
+    Pandas &nbsp;
+    NumPy &nbsp;
+    React.js &nbsp;
 </div>
 
 Intern on the [Pay Equity team](https://home.kpmg/ca/en/home/insights/2022/01/pay-equity.html) during Summer 2022.
@@ -32,12 +40,12 @@ Some notable achievements include:
 
 ---
 
-# Product Engineer @ LifeWorks
+## Product Engineer @ LifeWorks
 
 <div class="post-tags">
-    <a href="{{site.baseurl}}/categories/#CSharp">C#</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#DotNet">.NET</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#SQL">SQL</a> &nbsp;
+    C# &nbsp;
+    .NET &nbsp;
+    SQL &nbsp;
 </div>
 
 Intern on the Enterprise Solutions team during Summer 2021.
