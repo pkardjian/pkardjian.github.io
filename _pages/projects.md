@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Some passion projects I've taken on ...
 permalink: /projects/
 ---
@@ -10,9 +10,8 @@ permalink: /projects/
 
 <div class="post-tags">
     <a href="{{site.baseurl}}/categories/#Python">Python</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#NumPy">NumPy</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#PyTorch">PyTorch</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#API">Street View API</a> &nbsp;
+    <a href="{{site.baseurl}}/categories/#Torchvision">Torchvision</a> &nbsp;
 </div>
 
 
@@ -24,12 +23,12 @@ You can find the repository [here](https://github.com/pkardjian/GeoSpottr).
 
 ## Soccer Injury Risk Prediction
 
-<p class="author_title">May 15th, 2023</p>
+<p class="author_title">January 8th, 2023</p>
 
 <div class="post-tags">
     <a href="{{site.baseurl}}/categories/#Python">Python</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#NumPy">NumPy</a> &nbsp;
-    <a href="{{site.baseurl}}/categories/#Pandas">PyTorch</a> &nbsp;
+    <a href="{{site.baseurl}}/categories/#Pandas">Pandas</a> &nbsp;
+    <a href="{{site.baseurl}}/categories/#Scikit-learn">Scikit-learn</a> &nbsp;
     <a href="{{site.baseurl}}/categories/#BeautifulSoup">BeautifulSoup</a> &nbsp;
 </div>
 
