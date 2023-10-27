@@ -4,6 +4,24 @@ title: A glimpse into my recent experiences ...
 permalink: /experience/
 ---
 
+## Data Engineer @ CPP Investments
+
+<p class="author_title">Fall 2023  ·  Toronto, ON</p>
+
+<div class="post-tags">
+    <a>Python</a> &nbsp;
+    <a>Java</a> &nbsp;
+    <a>AWS</a> &nbsp;
+    <a>Kafka</a> &nbsp;
+    <a>Airflow</a> &nbsp;
+</div>
+
+Intern on the [Alternative Assets Technology team](https://www.konrad.com/capabilities/strategy).
+
+Building data pipelines that provide financial and non-financial data to an all-in-one business intelligence tool for investment analysts. 
+
+---
+
 ## Product Manager @ Konrad Group
 
 <p class="author_title">Summer 2023  ·  Toronto, ON</p>
@@ -37,10 +55,10 @@ Ideated and developed new features for an early stage 'Pay Equity' application, 
 
 Some notable achievements include:
 
+- Implementing data ingestion pipeline for the Federal Pay Equity tool.
 - Launching MVP for the Quebec Pay Equity application.
 - Building a payout calculator to plan yearly compensation increases.
 - Optimizing existing ETL process for a job classifier.
-- Implementing unit testing and CI/CD pipelines where needed.
 
 ---
 
