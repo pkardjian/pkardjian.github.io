@@ -16,7 +16,7 @@ permalink: /experience/
     <a>Airflow</a> &nbsp;
 </div>
 
-Intern on the [Alternative Assets Technology team](https://www.konrad.com/capabilities/strategy).
+Intern on the [Real Assets Technology team](https://www.cppinvestments.com/the-fund/our-investments/investment-real-assets/).
 
 Building data pipelines that provide financial and non-financial data to an all-in-one business intelligence tool for investment analysts. 
 
