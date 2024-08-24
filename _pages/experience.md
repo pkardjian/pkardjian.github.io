@@ -4,21 +4,55 @@ title: A glimpse into my recent experiences ...
 permalink: /experience/
 ---
 
+## Data Engineer @ Data SEA Consulting
+
+<p class="author_title">Summer 2024  ·  Toronto, ON</p>
+
+<div class="post-tags">
+    <a>Python</a> &nbsp;
+    <a>Spark</a> &nbsp;
+    <a>Databricks</a> &nbsp;
+    <a>Power BI</a> &nbsp;
+</div>
+
+Consultant for a boutique data consulting firm providing cutting-edge data solutions to mid-sized businesses across various industries. Worked on a wide array of tasks, including:
+
+- Building Spark-based ETL pipelines processing credit bureau data for a financial services company.
+- Creating an inventory and overbooking dashboard in Power BI for Canada's largest event rentals company.
+- Revamping an enterprise data model by meeting with key stakeholders and making changes across 20+ tables.
+- Engineering a common metadata framework used to apply metadata (comments, tags, permissions, etc.) on data assets across multiple client engagements.
+
 ## Data Engineer @ CPP Investments
+
+<p class="author_title">Winter 2024  ·  Toronto, ON</p>
+
+<div class="post-tags">
+    <a>Python</a> &nbsp;
+    <a>Spark</a> &nbsp;
+    <a>GitHub Actions</a> &nbsp;
+    <a>AWS S3</a> &nbsp;
+    <a>AWS EMR</a> &nbsp;
+    <a>Airflow</a> &nbsp;
+</div>
+
+Intern on the Investment Risk Technology team.
+
+Revamped CI/CD workflows for an entire codebase, implemented Airflow DAG that pulls high-frequency geopolitical risk data and introduced new risk measures to enterprise risk reporting system using Spark. 
 
 <p class="author_title">Fall 2023  ·  Toronto, ON</p>
 
 <div class="post-tags">
     <a>Python</a> &nbsp;
     <a>Java</a> &nbsp;
-    <a>AWS</a> &nbsp;
+    <a>AWS S3</a> &nbsp;
+    <a>AWS Glue</a> &nbsp;
     <a>Kafka</a> &nbsp;
     <a>Airflow</a> &nbsp;
 </div>
 
-Intern on the [Real Assets Technology team](https://www.cppinvestments.com/the-fund/our-investments/investment-real-assets/).
+Intern on the Real Assets Technology team.
 
-Building data pipelines that provide financial and non-financial data to an all-in-one business intelligence tool for investment analysts. 
+Built data pipelines that provide financial and non-financial data to an all-in-one business intelligence tool for investment analysts. 
 
 ---
 
