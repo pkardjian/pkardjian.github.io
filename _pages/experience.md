@@ -17,10 +17,9 @@ permalink: /experience/
 
 Consultant for a boutique data consulting firm providing cutting-edge data solutions to mid-sized businesses across various industries. Worked on a wide array of tasks, including:
 
-- Building Spark-based ETL pipelines processing credit bureau data for a financial services company.
-- Creating an inventory and overbooking dashboard in Power BI for Canada's largest event rentals company.
-- Revamping an enterprise data model by meeting with key stakeholders and making changes across 20+ tables.
-- Engineering a common metadata framework used to apply metadata (comments, tags, permissions, etc.) on data assets across multiple client engagements.
+- Building Spark-based ETL pipelines for a financial services company
+- Creating an inventory dashboard for Canada's largest event rentals company
+- Engineering a common metadata framework used across multiple client engagements
 
 ## Data Engineer @ CPP Investments
 
